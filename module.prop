@@ -1,0 +1,7 @@
+id=Comodo_SecureDNS4Magisk
+name=ComodoSecureDNS4Magisk
+version=v1
+versionCode=1
+author=K3V1991
+description=Comodo Secure DNS systemless
+minMagisk=17000
