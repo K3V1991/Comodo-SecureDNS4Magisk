@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/RTrfgPb/Comodo.png" width="150"></a>
+<p align="center"><img src="https://i.ibb.co/RTrfgPb/Comodo.png" width="200"></a>
 <h1 align="center"><b>Comodo SecureDNS4Magisk</b></h1>
 <h4 align="center">This Module makes your Device to use Comodo Secure DNS Servers</h4>
 <br />
